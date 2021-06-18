@@ -10,6 +10,7 @@
         <mkdir dir="build/classes"/>
         <mkdir dir="dist"/>
 	     <mkdir dir="disttt"/>
+	     <mkdir dir="distoihh"/>
     </target>
     <target name="compile" depends="init">
         <javac srcdir="src" debug="true" destdir="build/classes">
